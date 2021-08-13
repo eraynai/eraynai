@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Elli.
 #### I love creating amazing apps!
-![I love creating amazing apps!](https://images.unsplash.com/photo-1608306448197-e83633f1261c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=600&h=200)
 
 I am a highly motivated, collaborative, and communicative, Toronto-based, full stack developer with a passion for making apps that have an impact on people's lives. I am a recent graduate of General Assembly's Software Engineering Immersive Bootcamp and have an advanced diploma in User Experience Design and Development from George Brown College.
 
